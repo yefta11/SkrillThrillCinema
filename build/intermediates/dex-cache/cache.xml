@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\MS\.android\build-cache\249e01a412d487944afdaf9cceca438c55d6006b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c5d103b270b3f3b50d8e6b44aa8e068b0de33426">
+        <dex dex="D:\XIRPL2\MateridanTugas\PPB\androidproject\SkrillThrillCinema\app\build\intermediates\pre-dexed\release\classes_2d330bde8772058133cad1ac5f62ef1f26f4d6ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MS\.android\build-cache\fc633c8d0d44b3fd0d89c88688b6e823fd887e79\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="D:\XIRPL2\MateridanTugas\PPB\androidproject\SkrillThrillCinema\app\build\intermediates\pre-dexed\release\classes_d9da363200d96e562e9ec9c42a81174c1afa3a7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MS\.android\build-cache\f3ba5de780d0fa168afb5d1593d9204d305d6527\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="D:\XIRPL2\MateridanTugas\PPB\androidproject\SkrillThrillCinema\app\build\intermediates\pre-dexed\release\classes_d7409ca70f8f41ac61a3949877018337db984d1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MS\.android\build-cache\790ea81f96d4de6639227cff760c18bd84f058f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="D:\XIRPL2\MateridanTugas\PPB\androidproject\SkrillThrillCinema\app\build\intermediates\pre-dexed\release\classes_04cc7c04acc02ac373e7c265e484e0dbe2dc75d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MS\.android\build-cache\44000c20659b3539fd70678434125153b6253de4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="D:\XIRPL2\MateridanTugas\PPB\androidproject\SkrillThrillCinema\app\build\intermediates\pre-dexed\release\classes_8c8252b13eb7ec951bf7312377569fb8357903a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MS\.android\build-cache\81e245008ed5b6a86a50024a6cef787eace2d321\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="D:\XIRPL2\MateridanTugas\PPB\androidproject\SkrillThrillCinema\app\build\intermediates\pre-dexed\release\classes_bad5d6e196f4c0ad60acf23b8e4d4d11b1d30041.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MS\.android\build-cache\5b773a8464a9e5ea55e39099843623fd0509b093\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="D:\XIRPL2\MateridanTugas\PPB\androidproject\SkrillThrillCinema\app\build\intermediates\pre-dexed\release\classes_057fcba07b8b7fff200a84f2f1b1c2efb9076de2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\app\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="D:\XIRPL2\MateridanTugas\PPB\androidproject\SkrillThrillCinema\app\build\intermediates\pre-dexed\release\support-annotations-25.3.0_5a9b908de3133a05634b3b5d333c40eb3492d611.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MS\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="D:\XIRPL2\MateridanTugas\PPB\androidproject\SkrillThrillCinema\app\build\intermediates\pre-dexed\release\gson-2.8.0_d4e4b9a3081361af57a330b94710e172e6163dbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MS\.android\build-cache\8385acb0e3d9e13e6ae246eeb1d95e7ac4a211b3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="D:\XIRPL2\MateridanTugas\PPB\androidproject\SkrillThrillCinema\app\build\intermediates\pre-dexed\release\classes_ac7634331d3f4919128a94f3c0e4f077a87db6ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MS\.android\build-cache\00e56c0d2200c0bfa552bf908d3a415ad5f38aeb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="D:\XIRPL2\MateridanTugas\PPB\androidproject\SkrillThrillCinema\app\build\intermediates\pre-dexed\release\classes_5f66e909597ce398ac87c79cdeb32098d7cfc14a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MS\.android\build-cache\c4a9934c30b9401d5ebb596bf31f472e08ec4718\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="D:\XIRPL2\MateridanTugas\PPB\androidproject\SkrillThrillCinema\app\build\intermediates\pre-dexed\release\classes_ea70800e526beb4c9ffb6295ed7892f146d523f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MS\.android\build-cache\c5045e60f217ed838369bb3e83e764a7bd523dab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="D:\XIRPL2\MateridanTugas\PPB\androidproject\SkrillThrillCinema\app\build\intermediates\pre-dexed\release\classes_9955b2ecfbc6515b578550feb8891e8f8b441af3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MS\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\XIRPL2\MateridanTugas\PPB\androidproject\SkrillThrillCinema\app\build\intermediates\pre-dexed\release\glide-3.7.0_f16d64858d8cc00d18d070278bc7e0196d29134f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MS\.android\build-cache\d9630784b709e6899e489cb10fce3e264c0a970e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf9d9fedce7809e16ac57cb015bcffb9873237c3">
+        <dex dex="D:\XIRPL2\MateridanTugas\PPB\androidproject\SkrillThrillCinema\app\build\intermediates\pre-dexed\release\classes_4e57cacbf7b79060cb127b4fd73f9cb20388b514.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MS\.android\build-cache\dece722778d8268b988c56be047dd5cf12e0e5c3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="D:\XIRPL2\MateridanTugas\PPB\androidproject\SkrillThrillCinema\app\build\intermediates\pre-dexed\release\classes_22379dd4253cef70c9433f994dc8b75583605069.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MS\.android\build-cache\7ae60901b94e1f8644bec0a5ea6f920a50c89f85\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="D:\XIRPL2\MateridanTugas\PPB\androidproject\SkrillThrillCinema\app\build\intermediates\pre-dexed\release\classes_0bfffef5465648314a8dd522981b479a8f395b19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MS\.android\build-cache\86bb58f293c8d07dfe5ce025a229db2e3d11dbc2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\XIRPL2\MateridanTugas\PPB\androidproject\SkrillThrillCinema\app\build\intermediates\pre-dexed\release\classes_466463d064ad18b6df8df802c1cdc3010b3ca731.jar" />
+    </item>
+
+</items>
